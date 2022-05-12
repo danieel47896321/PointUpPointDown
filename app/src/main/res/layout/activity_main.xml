@@ -47,8 +47,5 @@
                 android:text="@string/ReducePoint"/>
 
         </LinearLayout>
-
-
-
     </androidx.cardview.widget.CardView>
 </LinearLayout>
