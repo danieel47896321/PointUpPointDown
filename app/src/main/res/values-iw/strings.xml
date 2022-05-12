@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PointUpPointDown</string>
+    <string name="Score">הניקוד שלך הוא</string>
+    <string name="AddPoint">הוספת 5 נקודות</string>
+    <string name="ReducePoint">הורדת 5 נקודות</string>
+
+</resources>

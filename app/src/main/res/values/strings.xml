@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PointUpPointDown</string>
+    <string name="Score">Your score is</string>
+    <string name="AddPoint">Add 5 Points</string>
+    <string name="ReducePoint">Reduce 5 Points</string>
+
+</resources>
